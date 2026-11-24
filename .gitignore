@@ -1,0 +1,4 @@
+footage/*
+!footage/.gitkeep
+montages/*
+!montages/.gitkeep
