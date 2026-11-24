@@ -49,3 +49,45 @@ Placeholders to fill in: `[LINK TO MSG EDITS]`, `[PORTFOLIO LINK]`, `[PHONE]`, `
 
 **Follow-up (send 2–3 hours later if no reply):**
 > Quick bump. Still free to shoot tonight if it's helpful. Edits from last night here: [LINK]
+
+## Round 2: 20 more contacts (Apollo, all verified emails)
+
+| Name | Role | Email | LinkedIn | Draft |
+|---|---|---|---|---|
+| Shane (founder) | Founder & CEO, The System (his management) | shane@thesystemgroup.com | [link](http://www.linkedin.com/in/shane-%e2%80%8e-40515124b) | #8 |
+| Marshall Pomeroy | Project Mgr & A&R Admin, The System | marshall@thesystemrecords.com | [link](http://www.linkedin.com/in/marshall-pomeroy-07a19b1a3) | #8 (cc) |
+| Zito | Director of Touring Production, 340 Productions | zito@340productions.com | [link](http://www.linkedin.com/in/zito-zito-2417a746) | #9 |
+| Ryan Gall | Managing Partner, 340 Productions | ryan@340productions.com | [link](http://www.linkedin.com/in/ryan-gall83) | #9 |
+| Bryan Bieber | Partner, 340 Productions | bryan@340productions.com | [link](http://www.linkedin.com/in/bryanbieber) | #9 (cc) |
+| Chanler Allegaert | Sr Director, Short Form Content, Warner | chanler.allegaert@warnerrecords.com | [link](http://www.linkedin.com/in/chanler-allegaert-925bb6122) | #10 |
+| Katie Kaiser | Assoc Director, Digital Marketing, Warner | katie.kaiser@warnerrecords.com | [link](http://www.linkedin.com/in/katie-kaiser-859b05168) | #10 |
+| Yazmeen Wahdat | Viral & Digital Marketing, Warner | yazmeen.wahdat@warnerrecords.com | [link](http://www.linkedin.com/in/yazmeenwahdat) | #10 (cc) |
+| Claire Vogel | Sr Director, Creative Services, Warner (based in NY) | claire.vogel@warnerrecords.com | [link](http://www.linkedin.com/in/clairevogel) | #11 |
+| Akila Gray | VP, Creative Services, Warner | akila.gray@warnerrecords.com | [link](http://www.linkedin.com/in/akila-gray) | #11 |
+| Alex Tenta | Creative Director, Warner | alex.tenta@warnerrecords.com | [link](http://www.linkedin.com/in/alex-tenta-972a243) | #11 (cc) |
+| Norman Wonderly | EVP, Creative, Warner | norman.wonderly@warnerrecords.com | [link](http://www.linkedin.com/in/norman-wonderly-a486061) | #11 (cc) |
+| Darren Baber | SVP, Publicity, Warner | darren.baber@warnerrecords.com | [link](http://www.linkedin.com/in/darren-baber-9391a157) | #12 |
+| Laura Hymes | Sr Director Digital Content, MSG | laura.hymes@msg.com | [link](http://www.linkedin.com/in/laura-hymes) | #13 |
+| Jordan Steward | Manager, Digital Content, MSG | jordan.steward@msg.com | [link](http://www.linkedin.com/in/jordan-steward-955b55128) | #13 |
+| Dina Depina | SVP Creative Studio & Digital Ops, MSG | dina.depina@msg.com | [link](http://www.linkedin.com/in/dinadina) | #13 (cc) |
+| Andrew Lepping | Photo Coordinator, MSG | andrew.lepping@msg.com | [link](http://www.linkedin.com/in/andrew-lepping) | #14 |
+| Victoria Lewis | Photo Editor, MSG | victoria.lewis@msg.com | [link](http://www.linkedin.com/in/victoria-lewis-b5a6b397) | #14 |
+| Ruby Ktori | VP, Content & Viral Marketing, Warner (London) | ruby.ktori@wmg.com | [link](http://www.linkedin.com/in/ruby-ktori-a69811154) | not drafted: London-based |
+| Maria Jañez Sola | Sr Content Manager, Warner (London) | maria.janezsola@wmg.com | [link](http://www.linkedin.com/in/mar%c3%ada-j%c3%a1%c3%b1ez-sola-403333142) | not drafted: London-based |
+
+### Drafts #8–14 (in Gmail, unsent; same placeholders to fill in)
+8. Shane (The System), cc Marshall Pomeroy + Ann Perkins
+9. Zito + Ryan Gall (340 Productions), cc Bryan Bieber
+10. Chanler Allegaert + Katie Kaiser (Warner short-form/digital), cc Yazmeen Wahdat
+11. Claire Vogel + Akila Gray (Warner creative), cc Alex Tenta + Norman Wonderly
+12. Darren Baber (Warner publicity)
+13. Laura Hymes + Jordan Steward (MSG digital content), cc Dina Depina: offers footage for The Garden's own channels
+14. Andrew Lepping + Victoria Lewis (MSG photo): second-shooter ask
+
+## More DM targets (Instagram)
+- **@thegarden**: reply to their sombr posts tonight with your best clip and tag @sombr.
+- **@sombr**: DM plus a comment on his latest MSG post.
+- **@kevinmazur**: Getty photographer who shoots this tour.
+- **The photographers credited on @sombr's last 10 posts**: DM each one and offer to second-shoot.
+- **Opener teams**: @hannahjadagu and @dovecameron, or their managers. They may want BTS too, which gets you in the building.
+- **LinkedIn**: everyone above has a profile. Send the connection note (300 characters or fewer) from earlier in this file.
